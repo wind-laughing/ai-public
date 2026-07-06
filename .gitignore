@@ -1,0 +1,38 @@
+﻿# Java
+target/
+*.class
+*.jar
+*.war
+
+# Maven
+!**/src/main/**/target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+*.env.local
+
+# Node
+node_modules/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Obsidian - personal sessions
+.claudian
+.obsidian
+
+# Personal workspace
+.claudian/claudian-settings.json
+.claudian/claudian-settings.txt
+.claudian/obsidian-web-clipper-settings.json
