@@ -35,7 +35,7 @@
 
 ![](../05-Annex/eks-demo-01-multi-lang-example-2.png)
 
-![](../05-Annex/eks-demo-01-multi-lang-example-3.png.png)
+![](../05-Annex/eks-demo-01-multi-lang-example-3.png)
 
 
 
