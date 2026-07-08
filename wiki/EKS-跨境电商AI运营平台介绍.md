@@ -27,15 +27,15 @@
 3. 点击"生成文案"→ 调用 DeepSeek API 批量生成
 4. 查看结果并下载/打开对应格式文件
 
-![](05-Annex/eks-demo-01-multi-lang.png)
+![](../05-Annex/eks-demo-01-multi-lang.png)
 
-![](05-Annex/eks-demo-01-multi-lang-his.png)
+![](../05-Annex/eks-demo-01-multi-lang-his.png)
 
-![](05-Annex/eks-demo-01-multi-lang-example.png)
+![](../05-Annex/eks-demo-01-multi-lang-example.png)
 
-![](05-Annex/eks-demo-01-multi-lang-example-2.png)
+![](../05-Annex/eks-demo-01-multi-lang-example-2.png)
 
-![](05-Annex/eks-demo-01-multi-lang-example-3.png.png)
+![](../05-Annex/eks-demo-01-multi-lang-example-3.png.png)
 
 
 
@@ -59,21 +59,21 @@
 - **实时演示**：4 个典型 Case 的单条推理展示，新账号大额异常→BLOCK
 - **模型**：PyTorch，F1=1.0（测试数据），~21KB，200轮训练
 
-![](05-Annex/eks-demo-03-order-control-main.png)
+![](../05-Annex/eks-demo-03-order-control-main.png)
 
-![](05-Annex/eks-demo-03-order-control-main2.png)
+![](../05-Annex/eks-demo-03-order-control-main2.png)
 
-![](05-Annex/eks-demo-03-order-control-report.png)
+![](../05-Annex/eks-demo-03-order-control-report.png)
 
-![](05-Annex/eks-demo-03-order-control-report1.png)
+![](../05-Annex/eks-demo-03-order-control-report1.png)
 
-![](05-Annex/eks-demo-03-order-control-report2.png)
+![](../05-Annex/eks-demo-03-order-control-report2.png)
 
-![](05-Annex/eks-demo-03-order-control-report3.png)
+![](../05-Annex/eks-demo-03-order-control-report3.png)
 
-![](05-Annex/eks-demo-03-order-control-reoprt4.png)
+![](../05-Annex/eks-demo-03-order-control-reoprt4.png)
 
-![](05-Annex/eks-demo-03-order-control-report5.png)
+![](../05-Annex/eks-demo-03-order-control-report5.png)
 
 
 ### 场景 4：选品分析
@@ -86,18 +86,19 @@
 - **执行分析**：生成销售趋势报告（TXT/MD/HTML 三种格式）
 - **历史管理**：按时间戳子目录输出，24 小时内报告标记 NEW
 
-![](05-Annex/eks-demo-04-product-pick-report0.png)
-![](05-Annex/eks-demo-04-product-pick-report1.png)
+![](../05-Annex/eks-demo-04-product-pick-report0.png)
 
-![](05-Annex/eks-demo-04-product-pick-report2.png)
+![](../05-Annex/eks-demo-04-product-pick-report1.png)
 
-![](05-Annex/eks-demo-04-product-pick-report3.png)
+![](../05-Annex/eks-demo-04-product-pick-report2.png)
 
-![](05-Annex/eks-demo-04-product-pick-report4.png)
+![](../05-Annex/eks-demo-04-product-pick-report3.png)
 
-![](05-Annex/eks-demo-04-product-pick-report5.png)
+![](../05-Annex/eks-demo-04-product-pick-report4.png)
 
-![](05-Annex/eks-demo-04-product-pick-report6.png)
+![](../05-Annex/eks-demo-04-product-pick-report5.png)
+
+![](../05-Annex/eks-demo-04-product-pick-report6.png)
 
 ### 场景 5：运营复盘
 
@@ -109,12 +110,13 @@
 - **复盘报告**：生成运营复盘报告（TXT/MD/HTML 三种格式）
 - **历史管理**：按时间戳子目录输出，NEW 标记
 
-![](05-Annex/eks-demo-05-operation-review-report0.png)
+![](../05-Annex/eks-demo-05-operation-review-report0.png)
 
-![](05-Annex/eks-demo-05-operation-review-report1.png)
-![](05-Annex/eks-demo-05-operation-review-report2.png)
+![](../05-Annex/eks-demo-05-operation-review-report1.png)
 
-![](05-Annex/eks-demo-05-operation-review-report3.png)
+![](../05-Annex/eks-demo-05-operation-review-report2.png)
+
+![](../05-Annex/eks-demo-05-operation-review-report3.png)
 
 
 ---
