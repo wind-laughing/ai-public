@@ -9,7 +9,7 @@
 
 **项目目录**：`$eks = D:\agent-projects\eks-demo`
 
-![](05-Annex/eks-demo-home-screen.png)
+![](../05-Annex/eks-demo-home-screen.png)
 
 ---
 
