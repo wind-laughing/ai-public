@@ -215,5 +215,7 @@ ai-public/
 每一份文档都是**用工程师的语言写给工程师看的**——少修辞，多逻辑；少形容词，多证据；少承诺，多展示。
 
 
-刘林阳
-liulinyang85@yeah.net
+
+作者：刘林阳
+
+邮箱：liulinyang85@yeah.net
